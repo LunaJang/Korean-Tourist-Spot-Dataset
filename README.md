@@ -33,9 +33,9 @@ First, they divided into person-made tourist spots and nature scene tourist spot
 ## Load code
 Two types of files are provided 
 
-> Python : [load_data.py](https://github.com/DGU-AI-LAB/Korean-Tourist-Spot-Dataset/blob/master/load_data.py)
+> Python : [load_data.py](https://github.com/DGU-AI-LAB/Korean-Tourist-Spot-Dataset/blob/master/load_KTS(tf2).py)
 
-> Jupyter notebook : [load_data.ipynb](https://github.com/DGU-AI-LAB/Korean-Tourist-Spot-Dataset/blob/master/load_data.ipynb)
+> Jupyter notebook : [load_data.ipynb](https://github.com/DGU-AI-LAB/Korean-Tourist-Spot-Dataset/blob/master/load_KTS(tf2).ipynb)
 
 ### Prerequisite
 > pip install numpy
