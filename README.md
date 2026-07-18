@@ -1,4 +1,6 @@
-[Paper]( https://www.mdpi.com/2306-5729/4/4/139 "Korean Tourist Spot Multi-Modal Dataset for Deep Learning Applications").
+[Paper] https://www.mdpi.com/2306-5729/4/4/139 "Korean Tourist Spot Multi-Modal Dataset for Deep Learning Applications").
+Jeong, Changhoon, et al. "Korean tourist spot multi-modal dataset for deep learning applications." Data 4.4 (2019): 139.
+
 # Korean-Tourist-Spot-Dataset
 This repository contains the KTS(Korean Tourist Spot) dataset and code for load them.
 You can check the documentation of the KTS dataset at 
